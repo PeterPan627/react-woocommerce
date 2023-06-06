@@ -1,5 +1,6 @@
 # Shopping Cart: ReactJS + Woocommerce
 
+
 ## Description
 This project aims to be a web/mobile interfase to enhance user experience on Woocommerce platform. It is a ReactJS application that uses the Rest API provided by Woocommerce to display categories, products, and create orders.
 
